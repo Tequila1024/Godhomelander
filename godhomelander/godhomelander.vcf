@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Homelander;God;;;
+FN:God Homelander
+ORG:Business name: Vought
+ADR;TYPE=WORK:Business name: Vought Tower
+TITLE:Job title: Captain of the Seven
+TEL;TYPE=CELL:6479668806
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:Hlander@Vought.com
+URL;TYPE=Digital Business Card:
+URL:
+
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Business description: A company selling Superheros 
+UID:EnBizCard-100114629
+END:VCARD
