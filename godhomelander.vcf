@@ -3,13 +3,13 @@ VERSION:3.0
 N:Paterson;Anthony;;;
 FN:Anthony Paterson
 ORG: RSVFX
-ADR;TYPE=WORK:35 Golden Avenue, Suite 105, Toronto, ON M6R 2J5
+ADR;TYPE=ADR:35 Golden Avenue, Suite 105, Toronto, ON M6R 2J5
 TITLE:CEO / Executive VFX Supervisor
 TEL;TYPE=CELL:4168226378
 TEL;TYPE=WORK:4163645678
 TEL;TYPE=HOME:
 TEL;TYPE=MSG:
-EMAIL;TYPE=WORK:apaterson@rsvfx.com
+EMAIL;TYPE=EMAIL:apaterson@rsvfx.com
 
 URL:Official https://www.rsvfx.com/
 URL:LinkedIn: https://www.linkedin.com/in/anthony-paterson-40800b7/
