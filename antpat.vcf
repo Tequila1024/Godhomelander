@@ -11,8 +11,8 @@ TEL;TYPE=HOME:
 TEL;TYPE=MSG:
 EMAIL;TYPE=email:apaterson@rsvfx.com
 
-URL:https://www.rsvfx.com/
-URL:https://www.linkedin.com/in/anthony-paterson-40800b7/
+URL;TYPE=Official:https://www.rsvfx.com/
+URL;TYPE=Linkedin:https://www.linkedin.com/in/anthony-paterson-40800b7/
 
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:
